@@ -1,1 +1,1 @@
-This repository is created for jenkins slack integration
+This repository is created for jenkins slack integration and jira integration as well.
