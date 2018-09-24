@@ -112,6 +112,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
 	</form>
 <a href="<%=request.getContextPath()%>/home.htm">Back to Main</a>
 </div>
+	<div>changed in training</div>
 </body>
 </html>
 
